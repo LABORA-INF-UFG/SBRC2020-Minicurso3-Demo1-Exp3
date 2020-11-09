@@ -1,4 +1,4 @@
-# NetSoft2020-Tutorial4-Demo1-Exp3
+# SBRC2020-Minicurso3-Demo1-Exp3
 
 ## Expected result
 
