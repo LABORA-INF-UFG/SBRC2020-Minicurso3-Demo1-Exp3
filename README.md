@@ -35,9 +35,9 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
- After, we can clone the **NetSoft2020-Tutorial4-Demo1-Exp3 project**:
+ After, we can clone the **SBRC2020-Minicurso3-Demo1-Exp3 project**:
 ```
-git clone https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp3.git
+git clone https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp3.git
 ```
 
 To build the eNB and EPC images and to run the containers, use the following command:  
